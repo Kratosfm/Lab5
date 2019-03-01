@@ -3,6 +3,10 @@ label{
 	font-size: 14px;
 }
 
+.chec{
+    text-decoration: line-through;
+
+}
 
 .checked{
 	text-decoration: line-through;

@@ -8,7 +8,7 @@ $("#anadirbuttom").on('click', function(event){
 //Checked
 $('#Lista').on('click', '.check', function(event){
   event.preventDefault();
-  $(this).parent().css('text-decoration', 'line-through');
+  $(this).parent().toggleClass('li chec')
 });
 //Delete
 $('#Lista').on('click', '.delete', function(event){
