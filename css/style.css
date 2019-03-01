@@ -8,14 +8,6 @@ label{
 
 }
 
-.checked{
-	text-decoration: line-through;
-	font-style: italic;
-	font-weight: 200;
-	color: grey;
-}
-
-
 ul {
 list-style:none;
 }
