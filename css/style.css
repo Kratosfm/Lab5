@@ -1,0 +1,31 @@
+
+label{
+	font-size: 14px;
+}
+
+
+.checked{
+	text-decoration: line-through;
+	font-style: italic;
+	font-weight: 200;
+	color: grey;
+}
+
+
+ul {
+list-style:none;
+}
+
+li{
+  background-color: lightblue;
+  font-size: 18px;
+  color: green;
+}
+.anadirbuttom{
+  background-color: blue;
+}
+
+button{
+  font-size: 14px;
+  background-color: yellow;
+}
